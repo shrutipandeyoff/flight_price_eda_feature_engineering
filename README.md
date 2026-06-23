@@ -1,13 +1,18 @@
-# flight_price_eda_feature_engineering
-End-to-end Exploratory Data Analysis (EDA) and Feature Engineering on a Flight Price dataset using Python, Pandas, and Scikit-Learn.
+# Flight Price EDA & Feature Engineering
 
-# Flight Price Dataset: EDA & Feature Engineering
+📌 Portfolio project completed as part of my Data Analytics upskilling journey.
 
-This project demonstrates a complete Exploratory Data Analysis (EDA) and Feature Engineering workflow on a Flight Price dataset. The objective is to transform raw flight data into a machine-learning-ready dataset by cleaning, preprocessing, and engineering meaningful features.
+🔹 Data Cleaning & Preprocessing
+🔹 Exploratory Data Analysis (EDA)
+🔹 Feature Engineering
+🔹 Categorical Encoding
+🔹 Machine Learning Data Preparation
+
+Tools: Python, Pandas, NumPy, Scikit-Learn, Jupyter Notebook
 
 ## Overview
 
-The project focuses on understanding the structure of airline pricing data and applying feature engineering techniques to prepare the dataset for predictive modeling.
+As part of my data analytics upskilling journey, I completed this project through a hands-on Udemy course focused on Exploratory Data Analysis (EDA) and Feature Engineering. The objective was to transform raw flight data into a machine-learning-ready dataset using industry-standard Python libraries and data preprocessing techniques.
 
 Key tasks include:
 
